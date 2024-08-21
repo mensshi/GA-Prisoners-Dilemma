@@ -1,0 +1,3 @@
+C := Transformation([5, 9, 9, 4, 9, 3, 8, 1, 7]);
+D := Transformation([1, 8, 3, 8, 9, 1, 4, 2, 6]);
+States := ["0D", "1C", "2C", "3D", "4D", "5D", "6C", "7D", "8D"];
